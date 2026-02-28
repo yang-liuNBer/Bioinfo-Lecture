@@ -3,11 +3,11 @@ Used for personal studying, training and Bioinfo's learning
 # 第一周课堂笔记
 ---
 ## 课程学习信息
-  **参考资料**：
+ **参考资料**：
   - 《生物信息学》(101计划核心教材)（上课讲义）
   - [《鸟哥的Linux私房菜－基础学习篇》](https://www.ctolib.com/docs/sfile/vbird-linux-basic-4e)
   - [《Quick R》](https://www.datacamp.com/doc/r/category/r-documentation)
-  **教学大纲和教学日历**：
+ **教学大纲和教学日历**：
   [Syllabus](http://lulab.life.tsinghua.edu.cn/courses)
 ---
 ## 课后思考题
